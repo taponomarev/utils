@@ -1,3 +1,3 @@
-module github.com/taponomarev/utils
+module github.com/taponomarev/utils/v2
 
 go 1.18
